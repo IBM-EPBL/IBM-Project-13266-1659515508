@@ -11,7 +11,7 @@ TEAM ID : PNT2022TMID08534
 ```
 ## 👨‍👩‍👦TEAM MEMBERS
 ```text
-Mahendren
+Mahendiran
 Elavarasan
 Vikram
 Seenivasan
