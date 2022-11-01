@@ -1,7 +1,7 @@
 # IBM-Project-13266-1659515508
 Skill / Job Recommender Application
+![dont-hire-freelancers](https://user-images.githubusercontent.com/114327168/199270764-0733d92e-b93b-476b-ab7f-5136b6f6ad44.png)
 
-![Save-Money](https://user-images.githubusercontent.com/89928788/196047781-17100327-745e-4a32-a66d-1c23cb528fa1.jpg)
 
 
 # 💰Personal Expense Tracker 
