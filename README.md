@@ -4,30 +4,26 @@ Skill / Job Recommender Application
 
 
 
-# 💰Personal Expense Tracker 
+# 👩‍💻Skill / Job Recommender Application
 ```text
 TECHNOLOGY : Cloud Application 
-TEAM ID : PNT2022TMID02161
+TEAM ID : PNT2022TMID08534
 ```
 ## 👨‍👩‍👦TEAM MEMBERS
 ```text
- - JOYSONAL SAMUEL 
- - JAYAPRAKASH 
- - JAYASIVAA KRISHNA 
- - SHAIKH FIRAAS 
+Mahendren
+Elavarasan
+Vikram
+Seenivasan
+Prakash 
 ```
 ## 📒PROJECT DESCRIPTION:
 
 ```text
-personal finance entails all the financial decisions and activities that a Finance app makes your life easier by helping you to manage your finances efficiently.
-A personal finance app will not only help you with budgeting and accounting but also give you helpful insights about money management.Personal finance applications 
-will ask users to add their expenses and based on their expenses wallet balance will be updated which will be visible to the user.  Also, users can get an analysis
-of their expenditure in graphical forms. They have an option to set a limit for the amount to be used for that particular month if the limit is exceeded the user
-will be notified with an email alert
+To develop an end-to-end web application capable of displaying the current job openings based on the user skillset.  The user and their information are stored in the Database.  An alert is sent when there is an opening based on the user skillset. Users will interact with the chatbot and can get the recommendations based on their skills. We can use a job search API to get the current job openings in the market which will fetch the data directly from the webpage
 ```
 
 
 ## 👨‍💻Technical Architecture:
 
-
-![Untitled](https://user-images.githubusercontent.com/89928788/196048044-5cff714e-d117-4343-8027-b3f6491f353c.png)
+![Untitled](https://user-images.githubusercontent.com/114327168/199271903-e3b5c555-6560-4c5f-9d99-a5fce31e3e1e.png)
